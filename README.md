@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EstebanRamosChavarriaga
+- 👀 I’m interested in the Earth's dynamics. Especially in relation to climate, ocean, fluvial, and coastal science.  
+- 🌱 I’m currently learning about ML and data-driven robust statistics to model interpretable dynamical systems.
+- 💞️ I’m looking to collaborate on problems related to geologic, biologic, climatic, and physical systems in Earth sciences.
+- 📫 How to reach me ... eramosc@eafit.edu.co and https://twitter.com/EstebanRamosCh1
